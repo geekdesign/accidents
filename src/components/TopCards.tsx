@@ -5,7 +5,7 @@ function TopCards() {
     <div className="grid lg:grid-cols-9 gap-4 p-4">
       <div className="lg:col-span-3 col-span-1 bg-white flex justify-between w-full border p-4 rounded-lg">
         <div className="flex flex-col w-full pb-4">
-          <p className="text-2xl font-bold">6'666 CHF</p>
+          <p className="text-2xl font-bold">1'000 CHF</p>
           <p className="text-gray-600">Chiffre d'affaire quotidien</p>
         </div>
         <p className="bg-green-200 flex justify-center items-center p-2 rounded-lg h-6">
